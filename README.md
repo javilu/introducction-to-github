@@ -42,3 +42,6 @@
 10. Qué es GitHub Flow
 
     GitHub Flow se define como un sistema de flujo de trabajo que se centra en los procesos de ramificación y que permite realizar implementaciones regulares en los proyectos, contribuyendo así a garantizar la entrega continua. Esta herramienta se basa en ramas o branches que forman parte del flujo de trabajo diario.
+
+
+<img alt="image showing my-first-branch entry" src="fin.png"/>
